@@ -1,0 +1,210 @@
+# sudo cp filter /etc/tinyproxy/filter && sudo systemctl restart tinyproxy
+
+# uncomment for enabling. if a whitespace exists in beginning of line, it is ignored.
+
+#google.com # (needed for uploading to gdrive)
+#www.google.com # (needed for searching)
+#apkpure.com # winudf.com
+
+# ########
+# RULES #
+# ########
+
+# 
+# *google.com asterisks do not work
+# 
+
+# 
+# linux.com matches any website ending with linux.com (eg. lifeoverlinux.com)
+# 
+
+# 
+# .linux.com same
+# 
+
+# 
+# archlinux.org # matches any subdomain (eg. aur.archlinux.org or fakearchlinux.org)
+# 
+
+# 
+# www.fbcdn.net # fails to load static.xx.fbcdn.net
+# 
+
+(books|research|chrome|meet|hangouts|accounts|mail|calendar|drive|translate).google.com
+(books|research|chrome|meet|hangouts|accounts|mail|calendar|drive|translate).google.co.uk
+(www|wiki|bbs|aur|security|bugs).archlinux.org
+
+# Gov:
+gov.uk # allow all uk gov websites
+gov.sy
+
+# Google:
+googleapis.com
+googlevideo.com
+googleusercontent.com
+gstatic.com # contains the cached images from google search. required for logging in.
+gmail.com
+youtube.com
+ytimg.com
+youtube-nocookie.com
+
+# Other:
+archive.org
+duckduckgo.com
+vimeo.com
+sustainablesites.org
+wikimedia.org
+wikipedia.org
+wikiart.org
+duosecurity.com
+sstatic.net
+code.jquery.com
+wp.com
+wordpress.com
+vimeocdn.com
+cloudfront.net
+wikihow.com
+
+# Personal:
+protonmail.com
+protonvpn.com
+protonmail.ch
+facebook.com
+facebook.net
+fbcdn.net
+lexico.com
+duolingo.com
+
+# Bible:
+aleteia.org
+st-takla.org
+
+# Shopping
+amazon.co.uk
+amazon.com
+media-amazon.com
+ssl-images-amazon.com
+amazonpay.com
+amazonaws.com
+ebay.co.uk
+ebaystatic.com
+ebay-us.com
+ebayrtm.com
+ebay.com
+paypal.com
+paypalobjects.com
+ebaydesc.com
+wordery.com
+eglobalcentraluk.com
+re-vived.com
+
+# Open source:
+gitlab.com
+gitlab.io
+gitlab-static.net
+github.com
+github.io
+githubusercontent.com
+githubassets.com
+githubapp.com
+arkoselabs.com # github
+chromium.org
+gnome.org
+e2guardian.org
+mozilla.org
+mozilla.com
+mozilla.net
+manjaro.org
+launchpad.net
+ubuntu.com
+privacytools.io
+lineageos.org
+xda-developers.com
+xda-cdn.com
+waterfox.net
+linuxquestions.org
+squidguard.org
+linux.com
+linux.org
+firefox.com
+yt-dl.org
+youtube-dl.org
+noscript.net
+superuser.com
+omgubuntu.co.uk
+gsmarena.com
+tecmint.com
+opensource.com
+lookip.net
+findipv6.com
+techrepublic.com
+howtoforge.com
+netgate.com
+reddit.com # does not include images
+stackexchange.com
+netgear.com
+cisco.com
+debian.org
+linuxtechlab.com
+tldp.org
+squid-cache.org
+diladele.com
+freedesktop.org
+cloudflare.com
+ibm.com
+stackoverflow.com
+serverfault.com
+askubuntu.com
+itsfoss.com
+awesomewm.org
+linuxmint.com
+sourceforge.net
+pressablecdn.com
+linuxhint.com
+howtogeek.com
+ubuntupit.com
+distrowatch.com
+elementary.io
+mirror.netweaver.uk # required for pacman
+mirror.bytemark.co.uk
+mirrors.ukfast.co.uk
+archlinux.rezopole.net
+archlinux.nautile.nc
+archlinux.mirror.rafal.ca
+mir.archlinux.fr
+archlinux.thaller.ws
+archlinux.c3sl.ufpr.br
+arch.nimukaito.net
+ca.us.mirror.archlinux-br.org
+archmirror.lavatech.top
+lon.mirror.rackspace.com # end archlinux
+archlinux.uk.mirror.allworldit.com # required for pamac
+archlinux.mirror.pcextreme.nl
+archlinux.mailtunnel.eu
+archlinux.mirror.liteserver.nl
+archlinux.mirror.digitalpacific.com.au
+archlinux.cs.nctu.edu.tw
+archlinux.mirror.liquidtelecom.com
+archlinux.iskon.hr
+archlinux.mirrors.ovh.net
+archlinux.uk.mirror.allworldit.com
+f.archlinuxvn.org
+archlinux.mirror.ba
+archlinux.mirrors.uk2.net
+archlinux.mirrors.benatherton.com
+archlinux.ip-connect.vn.ua
+archlinux.mirror.wearetriple.com
+archlinux.melbourneitmirror.net
+archlinux.dynamict.se
+archlinux.c3sl.ufpr.br
+archlinux.surlyjake.com
+archlinux.mirror.root.lu
+archlinux.cu.be # end pamac
+archlinuxuser.com
+fedoraproject.org
+redhat.com
+libreoffice.org
+lifewire.com
+octocaptcha.com
+funcaptcha.com
+
