@@ -4,7 +4,7 @@ This is the most effective method of blocking pornography (word origin: porneia 
 
 The best way not to commit evil, is to avoid it, to stay far from it, and to make it difficult to reach.
 
-The filter blocks everything except a predefined whitelist of _domains_. It can be used to protect your family, or to rid yourself from addiction.
+The filter blocks everything except a predefined whitelist of _domains_. It forces all http/https traffic to pass through a proxy, which acts as the filter. It can be used to protect your family, or to rid yourself from addiction.
 
 ### Steps to activate filter:
 The following needs experience in Linux. I use Arch. If you use another distro you might need to alter a few commands.
