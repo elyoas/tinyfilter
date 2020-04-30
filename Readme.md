@@ -35,7 +35,7 @@ Finally Add this proxy to your browser (Firefox): 127.0.0.1:8888
 
 And use a long root password, like the Hail Mary.
 
-### Tinyfilter V.2:
+### Further work:
 1. The filter at its current state can do domain filtering only. I'm looking to expand it and enable filtering based on url and page content, but I need more knowledge about SSL cryptography. I already attempted to use Squid instead of Tinyproxy for this, but I ran into problems. If you can help me please see this issue, it contains all of my work and my sources:
 https://bbs.archlinux.org/viewtopic.php?id=254998
 
