@@ -41,6 +41,10 @@ https://bbs.archlinux.org/viewtopic.php?id=254998
 
 2. Figure out how to implement it on Android (it is already possible to use iptables on Android). I will create another project in the future for this.
 
+# [UPDATE: on 20201128]
+A better filter (e2guardian) has since been introduced here:
+https://www.youtube.com/watch?v=Y3Nw0oTgaS8
+
 ### Filter weakness:
 Note that any virtualbox machine can circumvent these settings. So you need to disable users from installing software.
 
