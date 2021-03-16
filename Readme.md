@@ -1,4 +1,4 @@
-# A very effective Tinyproxy filter to block pornography
+# A very effective firewall filter to block pornography
 
 This is the most effective method of blocking pornography (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition) that I have ever achieved.
 
