@@ -1,5 +1,9 @@
 # A very effective firewall filter to block pornography
 
+If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell. (Matthew 5:29-30)
+
+* * *
+
 This is the most effective method of blocking pornography (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition) that I have ever achieved.
 
 The best way not to commit evil, is to avoid it, to stay far from it, and to make it difficult to reach.
