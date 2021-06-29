@@ -4,6 +4,7 @@ If your right eye causes you to stumble, gouge it out and throw it away. It is b
 
 * * *
 
+### Articles:
 https://fightthenewdrug.org/why-porn-can-be-difficult-to-quit/
 
 This is the most effective method of blocking pornography that I have ever achieved (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition).
