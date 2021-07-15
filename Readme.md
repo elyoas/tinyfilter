@@ -1,6 +1,10 @@
 # A very effective firewall filter to block pornography
 
-If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell. (Matthew 5:29-30)
+*«If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.» (Matthew 5:29-30)*
+
+*«Put on the full armor of God, so that you can take your stand against the devil’s schemes.» (Ephesians 6:11)*
+
+*«Submit yourselves, then, to God. Resist the devil, and he will flee from you.» (James 4:7)*
 
 * * *
 
